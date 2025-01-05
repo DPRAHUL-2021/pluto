@@ -17,7 +17,7 @@ const config: Config = {
         red: '#FF7474',
         error: '#b80000',
         green: '#3DD9B3',
-        // blue: '#56B8FF',
+        blue: '#56B8FF',
         lightPink: '#FA7275',
         pink: '#EEA8FD',
         orange: '#F9AB72',
